@@ -1,3 +1,4 @@
+
 #ProgrammingProblem1
 #Statisticians would like to have a set of functions to compute the median and mode of a list of numbers. The median is the number that would appear at the 
 #midpoint of a list if it were sorted. The mode is the number that appears most frequently in the list. Define these functions in a module named stats.py. 
